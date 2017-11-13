@@ -1,7 +1,7 @@
-(defproject com.taoensso/faraday "1.10.0-alpha1"
-  :author "Peter Taoussanis <https://www.taoensso.com>"
+(defproject com.cgore/faraday "1.9.1"
+  :author "Chris Gore <cgore@cgore.com"
   :description "Clojure DynamoDB client"
-  :url "https://github.com/ptaoussanis/faraday"
+  :url "https://github.com/cgore/faraday"
   :license {:name "Eclipse Public License"
             :url  "http://www.eclipse.org/legal/epl-v10.html"
             :distribution :repo
